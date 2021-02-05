@@ -1,2 +1,1 @@
-# AlphaTest
-Alpha strategy test
+# Testing Alpha
